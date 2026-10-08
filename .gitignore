@@ -1,0 +1,13 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/app/build/
+/captures/
+.cxx/
+# Secrets must never be committed (future detector API keys)
+secrets.properties
+*.keystore
+*.jks
